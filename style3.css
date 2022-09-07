@@ -1,12 +1,11 @@
  body {
      margin: 0%;
      padding: 0%;
-     position: fixed;
  }
 
 
  img {
-     width: 10%;
+     width: 15%;
      height: auto;
  }
 
@@ -14,6 +13,7 @@
      align-items: center;
      height: auto;
  }
+
 
  .navbar-brand {
      color: aliceblue;
@@ -29,11 +29,6 @@
      width: 100%;
  }
 
- /* .p-2 {
-     padding: 10% !important;
- } */
-
-
 
  #images {
      width: 70%;
@@ -47,4 +42,8 @@
 
  .container2 {
      margin-left: 50%;
+ }
+
+ .con {
+     margin-left: 5% !important;
  }
