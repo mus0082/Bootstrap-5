@@ -1,0 +1,52 @@
+ body {
+     padding: 0%;
+     margin: 0%;
+ }
+
+ .navbar-brand {
+     color: white !important;
+ }
+
+ .container-fluid img {
+     width: 8%;
+     padding-left: 1%;
+
+ }
+
+ .navbar-brand {
+     padding-left: 1%;
+ }
+
+ .navbar-toggler {
+     border: solid rgb(253, 254, 254) 3px !important;
+     background-color: rgb(132, 124, 124) !important;
+ }
+
+ .nav-item a {
+     color: white !important;
+ }
+
+ .dropdown-menu {
+     background-color: grey !important;
+ }
+
+
+ .d-flex {
+     position: fixed;
+     bottom: 0;
+     width: 100%;
+ }
+
+ .nav-link {
+     color: white !important;
+ }
+
+ .container {
+     margin-top: 5%
+ }
+
+
+
+ .multiple-images {
+     width: 50%;
+ }
