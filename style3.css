@@ -1,7 +1,9 @@
  body {
      margin: 0%;
      padding: 0%;
+     position: fixed;
  }
+
 
  img {
      width: 10%;
@@ -31,6 +33,18 @@
      padding: 10% !important;
  } */
 
+
+
+ #images {
+     width: 70%;
+     height: auto;
+
+ }
+
+ .row {
+     text-align: center;
+ }
+
  .container2 {
-     position: relative;
+     margin-left: 50%;
  }
